@@ -26,3 +26,7 @@ console.log(color.Blue, "Blue Color")
 console.log(color.Magenta, "Magenta Color")
 console.log(color.Cyan, "Cyan Color")
 ```
+
+## Output
+
+![](docs/simple-log-color-output.jpg)
